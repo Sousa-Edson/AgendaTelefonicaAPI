@@ -8,6 +8,7 @@ public class AgendaTelefonicaApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AgendaTelefonicaApiApplication.class, args);
+		System.out.println("teste");
 	}
 
 }
